@@ -478,3 +478,7 @@ int main() {
     }printf("%d",rev);
     return 0;
 }
+
+
+
+mauiuuyfid waykr
